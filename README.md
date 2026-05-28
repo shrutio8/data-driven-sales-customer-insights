@@ -23,11 +23,11 @@ Businesses often struggle to identify which regions, products, and customer segm
 
 ## 📊 Key Insights
 
-* Central zone contributes the highest number of orders, indicating strong market performance
-* Eastern zone shows the lowest contribution, suggesting a need for targeted growth strategies
-* Clothing & Apparel category generates the highest number of orders
-* Uttar Pradesh and Maharashtra are the top-performing states
-* Aviation and Banking sectors show higher customer engagement compared to other occupations
+* Central zone contributes the highest number of orders, indicating strong market concentration in specific regions.
+* Eastern zone shows the lowest contribution, highlighting an opportunity for targeted growth and expansion.
+* Clothing & Apparel category generates the highest number of orders, making it the top-performing product segment
+* Uttar Pradesh and Maharashtra are the leading states in terms of order volume, contributing significantly to overall sales.
+* Customers from Aviation and Banking sectors show higher engagement compared to other occupations.
 * A significant portion of sales is concentrated in a few regions, indicating dependency on limited markets.
 
 ## 📈 Dashboard Features
@@ -42,12 +42,17 @@ Businesses often struggle to identify which regions, products, and customer segm
 * Project Presentation (PPT)
 * Dashboard Screenshots
 
+## 📸 Dashboard Preview
+
+### 🔹 Overall Dashboard View
+![Dashboard](Dashboard1.png)
+
+### 🔹 Filtered View
+![Dashboard](Dashboard2.png)
+
 ## 🚀 Conclusion
 
 This analysis provides meaningful insights into customer behavior and sales performance, helping businesses make informed decisions and focus on high-performing areas for growth.
 
-## 📸 Dashboard Preview
 
-![Dashboard](Dashboard1.png)
-![Dashboard](Dashboard2.png)
 
