@@ -3,6 +3,7 @@
 ## 📌 Project Overview
 
 This project analyzes customer and sales data using Excel to uncover key business insights related to customer behavior, regional performance, and product trends. The goal is to support data-driven decision-making through an interactive dashboard.
+It simulates a real-world business scenario to identify key revenue drivers and underperforming regions.
 
 ## 🎯 Business Problem
 
@@ -27,6 +28,7 @@ Businesses often struggle to identify which regions, products, and customer segm
 * Clothing & Apparel category generates the highest number of orders
 * Uttar Pradesh and Maharashtra are the top-performing states
 * Aviation and Banking sectors show higher customer engagement compared to other occupations
+* A significant portion of sales is concentrated in a few regions, indicating dependency on limited markets.
 
 ## 📈 Dashboard Features
 
@@ -43,4 +45,9 @@ Businesses often struggle to identify which regions, products, and customer segm
 ## 🚀 Conclusion
 
 This analysis provides meaningful insights into customer behavior and sales performance, helping businesses make informed decisions and focus on high-performing areas for growth.
+
+## 📸 Dashboard Preview
+
+![Dashboard](Dashboard1.png)
+![Dashboard](Dashboard2.png)
 
